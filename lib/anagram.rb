@@ -28,6 +28,4 @@ class Anagram
   end
   return anagram_groups
 end
-
-  end
 end
